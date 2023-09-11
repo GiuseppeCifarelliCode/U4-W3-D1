@@ -45,7 +45,7 @@
         </div>
         <div class="row d-flex align-items-center">
             <div class="col-6">
-            <asp:Button ID="Button1" runat="server" Text="Calcola il preventivo" OnClick="Button1_Click" />
+            <asp:Button CssClass="btn btn-primary" ID="Button1" runat="server" Text="Calcola il preventivo" OnClick="Button1_Click" />
             </div>
             <div class="col-6 border border-3 border-dark text-bg-info">
                 <div class="d-flex align-items-center">
