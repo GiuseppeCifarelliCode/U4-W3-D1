@@ -43,7 +43,7 @@
                 <asp:ListItem Value="4" Text="4"></asp:ListItem>
             </asp:DropDownList>
         </div>
-        <div class="row d-flex align-items-center">
+        <div class=" container-fluid d-flex align-items-center">
             <div class="col-6">
             <asp:Button CssClass="btn btn-primary" ID="Button1" runat="server" Text="Calcola il preventivo" OnClick="Button1_Click" />
             </div>
